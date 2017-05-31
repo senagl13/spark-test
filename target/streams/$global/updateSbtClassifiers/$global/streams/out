@@ -1,5 +1,6 @@
 [debug] Other repositories:
 [debug] Default repositories:
+[debug] no default cache defined: set to /Users/lausena/.ivy2/cache
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#xenial-scala-application$sbt_2.11;1.0
 [debug] 	confs: [default]
@@ -703,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 363ms :: artifacts dl 35ms
+[debug] :: resolution report :: resolve 221ms :: artifacts dl 11ms
 [debug] 	report for default#xenial-scala-application$sbt_2.11;1.0 default produced in /Users/lausena/beanstalk_repos/xenial-scala-application/target/resolution-cache/reports/default-xenial-scala-application$sbt_2.11-default.xml
-[debug] 	resolve done (363ms resolve - 35ms download)
+[debug] 	resolve done (221ms resolve - 11ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#xenial-scala-application$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 83ms :: artifacts dl 18ms
+[debug] :: resolution report :: resolve 61ms :: artifacts dl 10ms
 [debug] 	report for default#xenial-scala-application$sources_2.11;1.0 default produced in /Users/lausena/beanstalk_repos/xenial-scala-application/target/resolution-cache/reports/default-xenial-scala-application$sources_2.11-default.xml
-[debug] 	resolve done (83ms resolve - 18ms download)
+[debug] 	resolve done (61ms resolve - 10ms download)

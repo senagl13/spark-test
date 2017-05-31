@@ -27,4 +27,5 @@ object Hello extends App {
 //  println(rdd.count)
 //  println(rdd.first)
 //  println(rdd.map(_.getInt("value")).sum)
+  sc.stop()
 }
